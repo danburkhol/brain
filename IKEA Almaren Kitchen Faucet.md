@@ -26,7 +26,7 @@ Most faucets in the United States will have a 1/2" MPT (male) or 1/2" FPT (femal
 - (9/16" female) faucet
 
 ## Spigot
-![[6766ACD3-29F7-48A8-B646-95F4E5102700.jpeg|1024]]
+![[./0 - Attachments/6766ACD3-29F7-48A8-B646-95F4E5102700.jpeg|1024]]
 
 ## New Faucet Side
-![[BD23ED5A-7AF0-45DA-AC21-C640BC9D93EE.jpeg|1024]]
+![[./0 - Attachments/BD23ED5A-7AF0-45DA-AC21-C640BC9D93EE.jpeg|1024]]
