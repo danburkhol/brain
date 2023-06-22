@@ -10,7 +10,7 @@ share: true
 - [1-My version of your prompt](https://chat.openai.com/share/69b64a47-766d-4dcc-8f7d-63528d44d313)
 
 ## GPT-4
-- 2-Prompt w/o changes
+- [2-Prompt w/o changes](https://chat.openai.com/share/bb1f26a9-54c9-41c0-8b51-d0af57f27f7c)
 - [3-My version of your prompt](https://chat.openai.com/share/8c2bd714-9345-486c-b9d2-059015621b68)
 
 # Parts Search
