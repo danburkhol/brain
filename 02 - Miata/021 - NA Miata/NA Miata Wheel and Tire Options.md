@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-# Tecna's
+# Tecnas
 - Ideally suited to 185-205 width tires above 280 treadwear on 6-8″ wheels
 - Pinch weld ride height measurement assumes a 22.8~23.0″ tall tires (185-60-14, 195/50/15, 205/50/15 225/45/15)
 - standard front setup provides enough bump travel for a 205/50/15 tire on a +36 offset 15×8 to just barely kiss the fender liner at full bump.
