@@ -1,6 +1,8 @@
 ---
 share: true
 ---
+WVWFB71F67V030391
+WVWFB71F67V030391
 # Service Manuals
 - https://justgivemethedamnmanual.com/
 - https://www.factory-manuals.com/expand-2007-volkswagen-eos-repair-manual-1518.html
@@ -16,6 +18,7 @@ share: true
 
 
 ## erWin
+[erWin VW Manuals and Documents](../erWin%20VW%20Manuals%20and%20Documents.md)
 - https://www.reddit.com/r/Volkswagen/comments/rjyx6s/repair_service_manuals_for_volkswagen/
 - https://erwin.vw.com/erwin/showHome.do
 
@@ -55,3 +58,11 @@ Performance
 + Installing dogbone & rubber mount insert for better handling / acceleration: https://goo.gl/gLqBSs
 Cosmetic
 + RDX Spoiler for Eos: https://goo.gl/K8i9fY
+
+# erWin Build Guide
+![1024](../0%20-%20Attachments/CleanShot%202023-09-07%20at%2019.34.14@2x.png)
+
+![512](../0%20-%20Attachments/CleanShot%202023-09-07%20at%2019.39.14@2x.png)
+
+
+![VW_Erwin_Build_Guide.pdf](../0%20-%20Attachments/VW_Erwin_Build_Guide.pdf)
