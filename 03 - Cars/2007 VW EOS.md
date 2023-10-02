@@ -1,6 +1,8 @@
 ---
 share: true
 ---
+[2007 VW EOS Wiring Diagram](2007%20VW%20EOS%20Wiring%20Diagram.md)
+
 WVWFB71F67V030391
 WVWFB71F67V030391
 # Service Manuals
@@ -21,9 +23,6 @@ WVWFB71F67V030391
 [erWin VW Manuals and Documents](../erWin%20VW%20Manuals%20and%20Documents.md)
 - https://www.reddit.com/r/Volkswagen/comments/rjyx6s/repair_service_manuals_for_volkswagen/
 - https://erwin.vw.com/erwin/showHome.do
-
-
-
 
 - [Installation of a high beam assistant Volkswagen Golf Plus](https://vwts.ru/articles/electro/a5_ustanovka_assistenta_dalnego_sveta.html)
 
@@ -59,6 +58,8 @@ Performance
 Cosmetic
 + RDX Spoiler for Eos: https://goo.gl/K8i9fY
 
+
+[VAG Immobolizer Defeat](VAG%20Immobolizer%20Defeat.md)
 # erWin Build Guide
 ![1024](../0%20-%20Attachments/CleanShot%202023-09-07%20at%2019.34.14@2x.png)
 
