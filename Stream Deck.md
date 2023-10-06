@@ -8,9 +8,9 @@ share: true
 - https://www.asianefficiency.com/productivity/stream-deck-for-productivity/
 
 
-![Stream Deck Plugins](Stream%20Deck%20Plugins.md)
+![Stream Deck Plugins](./Stream%20Deck%20Plugins.md)
 
-![Stream Deck Icons](Stream%20Deck%20Icons.md)
+![Stream Deck Icons](./Stream%20Deck%20Icons.md)
 
 # 3D Printables
 ## Stream Deck XL
