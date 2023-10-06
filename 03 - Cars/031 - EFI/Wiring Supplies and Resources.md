@@ -1,5 +1,6 @@
 ---
 share: true
+tags:
 ---
 
 # Wire
