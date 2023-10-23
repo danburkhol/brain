@@ -2,7 +2,7 @@
 share: true
 ---
 
-![VW EOS Stock Wheel Sizes](./VW%20EOS%20Stock%20Wheel%20Sizes.md)
+![VW EOS Stock Wheel Sizes](VW%20EOS%20Stock%20Wheel%20Sizes.md)
 
 
 # Daniel's Pre-Selections
