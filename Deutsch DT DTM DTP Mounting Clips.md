@@ -2,6 +2,7 @@
 share: true
 ---
 
+
 # Metal Mounting Clips
 
 | Part Number  | DTM | DT            | DTP | DTHD | Material                    | Hole O.D. in. (mm) |

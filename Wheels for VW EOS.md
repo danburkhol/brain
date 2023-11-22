@@ -2,7 +2,15 @@
 share: true
 ---
 
-![VW EOS Stock Wheel Sizes](./VW%20EOS%20Stock%20Wheel%20Sizes.md)
+
+- 17x7.5+47 
+    - 235/45/17
+    - Offset range 45-49
+- 17x6+45 
+    - 205/50/18
+    - Winter
+- 18x8+44
+    - 235/40/18
 
 
 # Daniel's Pre-Selections

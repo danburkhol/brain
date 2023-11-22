@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 # Tecnas
 - Ideally suited to 185-205 width tires above 280 treadwear on 6-8″ wheels
 - Pinch weld ride height measurement assumes a 22.8~23.0″ tall tires (185-60-14, 195/50/15, 205/50/15 225/45/15)

@@ -1,7 +1,8 @@
 ---
 share: true
-tags:
+tags: 
 ---
+
 
 # Wire
 - Get TXL wire for automotive use
@@ -73,7 +74,7 @@ tags:
     - https://www.amazon.com/gp/product/B002CCISPS/
 
 # Wire Markers
-![Wire Markers Pro-IDENT Kit](Wire%20Markers%20Pro-IDENT%20Kit.md)
+
 
 # Resources
 - [Motorsport Wiring Bible](https://www.rbracing-rsr.com/wiring_ecu.html)
