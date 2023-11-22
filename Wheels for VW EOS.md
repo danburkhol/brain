@@ -2,7 +2,7 @@
 share: true
 ---
 
-![VW EOS Stock Wheel Sizes](VW%20EOS%20Stock%20Wheel%20Sizes.md)
+![VW EOS Stock Wheel Sizes](./VW%20EOS%20Stock%20Wheel%20Sizes.md)
 
 
 # Daniel's Pre-Selections
@@ -57,7 +57,8 @@ share: true
 | BBS       | 17x7.5 +48    | RG785DBK       | $3380.00 | [Product Page](https://www.fitmentindustries.com/buy-wheel-offset/RG785DBK/bbs-rgr-17x75-48)                                |
 
 # Will they fit comparison
-Below I compared your existing wheel/tire setup against multiple different setups for quick comparison
+Below I compared your existing wheel/tire setup against multiple different setups for quick comparison.
+All comparisons performed at https://willtheyfit.com/
 
 # 17x7.5+47 235/45/17
 ## 18x8+45 235/40/18
