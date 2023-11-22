@@ -2,6 +2,7 @@
 share: true
 ---
 
+
 # Requirements
 - USB Type A ports
 - SD Card slot
