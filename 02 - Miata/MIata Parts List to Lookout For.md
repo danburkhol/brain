@@ -1,6 +1,9 @@
 ---
 share: true
+aliases:
+  - junkyard shopping list
 ---
+
 - [ ] Bosch iBooster
     - [Bosch iBooster Brake Booster](Bosch%20iBooster%20Brake%20Booster.md)
 - [ ] Dashboard defrost vents (not the eyeballs) from an NA6, must be from a black interior car
@@ -16,3 +19,8 @@ share: true
 - [x] NA6 gauge cluster
 - [x] NB gauge cluster
 - [x] NB Transmission speed sender
+- [ ] CAN Controller / Knob
+- [ ] Clockspring with more I/O
+- [ ] [Bosch TMAP Sensor](Bosch%20TMAP%20Sensor.md)
+- [ ] NB Pedal Box for DBW Conversion
+- [ ] Electric parking brake caliper(s)

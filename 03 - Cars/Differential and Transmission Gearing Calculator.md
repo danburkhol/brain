@@ -2,6 +2,7 @@
 share: true
 ---
 
+
 - http://grafgarage.com/gearing-calculator.html
 
 

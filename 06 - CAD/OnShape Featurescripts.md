@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 # Spotlight
 https://www.onshape.com/featurescript
 
@@ -64,3 +65,8 @@ https://forum.onshape.com/discussion/2638/bolt-nut-thread-generator
 CABLE/WIRE ROUTING 2.0
 - https://cad.onshape.com/documents/3599036701247d65f0106997
 - https://forum.onshape.com/discussion/18756/updated-custom-feature-cable-wire-routing-2-0
+
+
+# Cable / Wire routing
+- https://cad.onshape.com/documents/3599036701247d65f0106997/w/616e6f87cc1f718256a4d639/e/3136bf2febdd19bbe62af14f
+- https://www.youtube.com/watch?v=74qN_MhZmyY

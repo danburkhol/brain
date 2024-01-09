@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 # Step 1
 Generate a JSON Schema from the following JSON body:
 ```

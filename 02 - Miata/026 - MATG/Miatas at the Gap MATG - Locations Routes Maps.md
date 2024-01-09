@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 # Fontana Village
 https://fontanavillage.com/resort-location-directions/
 

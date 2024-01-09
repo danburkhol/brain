@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 # ecto and elixir
 > i asked it to write an ecto query for miatapartpicker, i feel like i gave it sufficient context and asked a relatively clear question and it should have been a pretty straightforward answer, but it dicked around making the most complicated query i've ever seen for like 4 tries before giving up trying something else and then ultimately failing
 - [Original](https://chat.openai.com/share/305dc3d9-dbb3-4d9c-bf3d-c1a0f98a2ebc)

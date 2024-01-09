@@ -2,6 +2,7 @@
 share: true
 ---
 
+
 # Custom Instructions
 - [How to use custom instructions - OpenAI](https://openai.com/blog/custom-instructions-for-chatgpt)
 
