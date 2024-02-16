@@ -2,7 +2,6 @@
 share: true
 ---
 
-
 - 17x7.5+47 
     - 235/45/17
     - Offset range 45-49

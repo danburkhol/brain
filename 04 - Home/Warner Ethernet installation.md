@@ -1,9 +1,10 @@
 ---
 share: true
 diagram: https://lucid.app/lucidchart/eb41df37-cc70-4fd7-a28d-1eaa68ed9083/edit?beaconFlowId=93E942CDC957D308&page=0_0&invitationId=inv_51fd0bbb-85aa-41a3-a0b5-11b9053feb26#
-floor plan: https://lucid.app/lucidchart/e2e3cf45-c48a-40f8-bdc8-a7cd76a0efe9/edit?invitationId=inv_d84ef15c-f5b1-42a3-8516-5db26bc78e90&page=0_0#
----
 
+floor plan: https://lucid.app/lucidchart/e2e3cf45-c48a-40f8-bdc8-a7cd76a0efe9/edit?invitationId=inv_d84ef15c-f5b1-42a3-8516-5db26bc78e90&page=0_0#
+
+---
 # Requirements
 ## Drops
 - 1 for TV area
