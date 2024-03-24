@@ -2,10 +2,14 @@
 share: true
 ---
 
+# TLDR
+- Slightly undersize your boss based on the smallest O.D. of the insert
+- When setting with a soldering iron, heat and depress only a millimeter or two and then release, let cool.
+    - Found it was easier to get a consistent, controlled setting
+
+
 # Designing for
 - https://markforged.com/resources/blog/heat-set-inserts
-
-
 
 Insertion guide
 https://www.makerbot.com/professional/post-processing/inserts/
