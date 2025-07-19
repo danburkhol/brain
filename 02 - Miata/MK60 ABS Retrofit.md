@@ -9,6 +9,12 @@ share: true
 # Parts
 ## Controllers
 - [MK60 ABS VR Controller](https://happycactusgarage.com/products/mk60-companion)
+- ABS Reluctor Rings
+    - [https://reluctorrings.com/](https://reluctorrings.com/ "https://reluctorrings.com/") 
+- [Haltech Gateway](https://bluegrassrace.com/products/bre-mk60e5-to-haltech-can-gateway)
+
+
+![512](../0%20-%20Attachments/Pasted%20image%2020240606090254.png)
 
 ## Connectors
 - https://tulayswirewerks.com/product/teves-mk60-abs-connector-kit/
@@ -16,6 +22,9 @@ share: true
 
 # Resources/Notes
 - [MK60e5 and MK60 ABS retrofit group](https://www.facebook.com/groups/807702710448164/)
+    - https://www.facebook.com/share/p/15ihM6tUiP/
+    - ![Pasted image 20250111064233.png](../0%20-%20Attachments/Pasted%20image%2020250111064233.png)
+    - ![Pasted image 20250111064239.png](../0%20-%20Attachments/Pasted%20image%2020250111064239.png)
 
 Key points from the image:
 - Phil Foley has compiled a list of E87 and E90 MK60E5 unit part numbers and software versions.

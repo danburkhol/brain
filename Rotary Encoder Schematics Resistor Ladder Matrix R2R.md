@@ -9,6 +9,9 @@ share: true
 ![Pasted image 20220708112700.png](./0%20-%20Attachments/Pasted%20image%2020220708112700.png)
 
 
+# Parts
+- https://wiki.autosportlabs.com/SensorX
+- 
 # References
 http://www.circuitous.ca/11StepBox.html
 http://www.exinterface.com/an1058/?ckattempt=2

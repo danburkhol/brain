@@ -19,8 +19,9 @@ aliases:
 - [x] NA6 gauge cluster
 - [x] NB gauge cluster
 - [x] NB Transmission speed sender
+- [ ] NB Main Cruise Control SW
 - [ ] CAN Controller / Knob
 - [ ] Clockspring with more I/O
-- [ ] [Bosch TMAP Sensor](Bosch%20TMAP%20Sensor.md)
+- [ ] [Bosch TMAP Sensor](../Bosch%20TMAP%20Sensor.md)
 - [ ] NB Pedal Box for DBW Conversion
 - [ ] Electric parking brake caliper(s)

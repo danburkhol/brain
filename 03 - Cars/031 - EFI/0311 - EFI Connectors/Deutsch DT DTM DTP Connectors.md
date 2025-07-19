@@ -7,7 +7,7 @@ share: true
 
 
 [Where to buy](Where%20to%20buy.md)
-    - https://www.amazon.com/gp/product/B09V9TJX15
+-  https://www.amazon.com/gp/product/B09V9TJX15
 - 5x DTM 6-Way Kit
     - https://www.amazon.com/gp/product/B09VB7SC83
 - 3x DTM 12-Way Kit
