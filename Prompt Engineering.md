@@ -32,3 +32,7 @@ Tools
 https://trydyno.com/
 - not useful
 
+
+- One Prompt to Rule Them All - Part One - As an AI... @parallel(true) @autodone(false)
+	http://www.asanai.net/2023/04/23/one-prompt-to-rule-them-all-part-one/
+
