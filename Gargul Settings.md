@@ -5,19 +5,18 @@ share: true
 
 Here is how I configure and some tips on how I use Gargul to master loot efficiently with as little cognitive load on the operator as possible.
 
-- [Macro - Click Popup](Gargul%20Settings.md#Macro%20-%20Click%20Popup)
-	- [Explanation](Gargul%20Settings.md#Macro%20-%20Click%20Popup)
-- [Gargul Configuration](Gargul%20Settings.md#Gargul%20Configuration)
-	- [SoftRes](Gargul%20Settings.md#Gargul%20Configuration)
-	- [Dropped Loot](Gargul%20Settings.md#Gargul%20Configuration)
-	- [Loot Trade Timers](Gargul%20Settings.md#Gargul%20Configuration)
-	- [Autoloot](Gargul%20Settings.md#Gargul%20Configuration)
-		- [Autoloot Item Rules](Gargul%20Settings.md#Autoloot)
-	- [Master Looting](Gargul%20Settings.md#Gargul%20Configuration)
-		- [Roll Tracking](Gargul%20Settings.md#Master%20Looting)
-		- [Awarding Loot](Gargul%20Settings.md#Master%20Looting)
-	- [Trade Announcements](Gargul%20Settings.md#Gargul%20Configuration)
-
+- [Macro - Click Popup](Gargul%20Settings.md##macro---click-popup)
+	- [Explanation](Gargul%20Settings.md##explanation)
+- [Gargul Configuration](Gargul%20Settings.md##gargul-configuration)
+	- [SoftRes](Gargul%20Settings.md##softres)
+	- [Dropped Loot](Gargul%20Settings.md##dropped-loot)
+	- [Loot Trade Timers](Gargul%20Settings.md##loot-trade-timers)
+	- [Autoloot](Gargul%20Settings.md##autoloot)
+		- [Autoloot Item Rules](Gargul%20Settings.md##autoloot-item-rules)
+	- [Master Looting](Gargul%20Settings.md##master-looting)
+		- [Roll Tracking](Gargul%20Settings.md##roll-tracking)
+		- [Awarding Loot](Gargul%20Settings.md##awarding-loot)
+	- [Trade Announcements](Gargul%20Settings.md##trade-announcements)
 
 # Macro - Click Popup 
 - This is not Gargul-specific but this macro saves me so much extra clicking in-game for so many things.
