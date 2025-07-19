@@ -10,7 +10,7 @@ share: true
 - Wider tires or lower offset wheels will require removal of plastic inner fender liners in front.
 - If running 245/40/15 tires or touching the front fender liners on big bumps, add our [shock mount spacers](https://949racing.com/product/5-mm-top-hat-spacer-90-05-miata/) or [travel limiters](https://949racing.com/product/xida-travel-limiters/) to create enough space for your oversize tires.
 
-# Current Setupp
+# Current Setup
 - 15x6+45 195/50/15 (confirmed)
 - wheel weight approx. 12.0 lbs, 5.5 kg.
 
