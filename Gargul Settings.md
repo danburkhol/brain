@@ -18,6 +18,7 @@ Here is how I configure and some tips on how I use Gargul to master loot efficie
 		- [Awarding Loot](Gargul%20Settings.md##awarding-loot)
 	- [Trade Announcements](Gargul%20Settings.md##trade-announcements)
 
+
 # Macro - Click Popup 
 - This is not Gargul-specific but this macro saves me so much extra clicking in-game for so many things.
     - I bind this to my `X` key. Being able to just hit this macro when the trade window opens is so convenient. 
